@@ -3,3 +3,4 @@ This is a learning curve, learn GitHub &amp; git
 i am girl who loves to code
 
 ## from findings branch
+dont mind me
